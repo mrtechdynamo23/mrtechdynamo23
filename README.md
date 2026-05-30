@@ -8,31 +8,50 @@
 
 <br/>
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table width="100%">
+<tr>
+<td valign="top" width="55%">
 
-### 👨‍💻 &nbsp;About Me
-
-🚀 &nbsp;Full Stack Developer passionate about **AI, Web Apps & Cloud**
-
-🎓 &nbsp;B.E. Computer Science @ **SRM Valliammai** — CGPA **9.32**
-
-🌍 &nbsp;Based in **Tamil Nadu, India**
-
-🤖 &nbsp;Builder of JARVIS — *before Iron Man made it mainstream*
-
-🌱 &nbsp;Currently diving deep into **Generative AI & LLMs**
-
-💡 &nbsp;Love turning ideas into real-world impactful products
-
-⚡ &nbsp;Motto: *"Code with purpose. Build with passion. Ship with pride."*
-
-📫 &nbsp;Reach me at **sudharrshancourse23@gmail.com**
+### 🌌 &nbsp;Who Am I?
 
 <br/>
 
-> *"The best way to predict the future is to build it."*
+```
+╔══════════════════════════════════════╗
+║  > whoami                            ║
+║  Sudharrshan S                       ║
+║                                      ║
+║  > cat profile.txt                   ║
+║  📍 Tamil Nadu, India                ║
+║  🎓 B.E. CSE  |  CGPA: 9.32         ║
+║  💼 Full Stack Developer             ║
+║  🤖 AI & LLM Enthusiast             ║
+║  🔭 Currently: Generative AI         ║
+║                                      ║
+║  > cat fun_fact.txt                  ║
+║  Built JARVIS before Iron Man did 😎 ║
+║                                      ║
+║  > echo $MOTTO                       ║
+║  "Code. Build. Ship. Repeat." 🚀     ║
+╚══════════════════════════════════════╝
+```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="45%" align="center">
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
+
+<br/><br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=mrtechdynamo23&label=Profile+Views&color=70a5fd&style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
@@ -118,12 +137,9 @@
 <div align="center">
 
 ![MultipleLang](https://img.shields.io/badge/🏆%20MultiLanguage-gold?style=for-the-badge&labelColor=0d1117&color=ffd700)
-![Commits](https://img.shields.io/badge/🏆%20Commits%20×800%2B-gold?style=for-the-badge&labelColor=0d1117&color=ffd700)
-![Repositories](https://img.shields.io/badge/🏆%20Repositories%20×30%2B-gold?style=for-the-badge&labelColor=0d1117&color=c0c0c0)
-![Stars](https://img.shields.io/badge/🏆%20Stars%20×200%2B-gold?style=for-the-badge&labelColor=0d1117&color=ffd700)
-![Followers](https://img.shields.io/badge/🏆%20Followers%20×100%2B-silver?style=for-the-badge&labelColor=0d1117&color=c0c0c0)
-![PullRequest](https://img.shields.io/badge/🏆%20Pull%20Requests%20×100%2B-bronze?style=for-the-badge&labelColor=0d1117&color=cd7f32)
-![Issues](https://img.shields.io/badge/🏆%20Issues%20×50%2B-bronze?style=for-the-badge&labelColor=0d1117&color=cd7f32)
+![Commits](https://img.shields.io/badge/🏆%20Commits-gold?style=for-the-badge&labelColor=0d1117&color=ffd700)
+![PullRequest](https://img.shields.io/badge/🏆%20Pull%20Requests-bronze?style=for-the-badge&labelColor=0d1117&color=cd7f32)
+![Issues](https://img.shields.io/badge/🏆%20Issues-bronze?style=for-the-badge&labelColor=0d1117&color=cd7f32)
 
 </div>
 
