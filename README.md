@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sudharrshan%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CSE%20Student%20%40%20SRMVEC&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sudharrshan%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20to%20Collaborate&descAlignY=62&descSize=16" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -90,11 +90,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/sudharrshan">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudharrshan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Sudharrshan's GitHub Stats"/>
+  <a href="https://github.com/mrtechdynamo23">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrtechdynamo23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Sudharrshan's GitHub Stats"/>
   </a>
-  <a href="https://github.com/sudharrshan">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharrshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <a href="https://github.com/mrtechdynamo23">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtechdynamo23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -103,7 +103,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sudharrshan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mrtechdynamo23&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -111,7 +111,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudharrshan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrtechdynamo23&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -119,7 +119,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudharrshan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mrtechdynamo23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -185,9 +185,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| 🤖 **[J.A.R.V.I.S. — AI Voice Assistant](https://github.com/sudharrshan)** | `Python` `NLP` `SpeechRecognition` `pyttsx3` | Voice-activated AI assistant inspired by Marvel's JARVIS • Real-time task execution & information retrieval • Personalized response system with system integration |
-| 🏥 **[Medico — Medical & Appointment Portal](https://github.com/sudharrshan)** | `React` `Node.js` `Express.js` `MySQL` | Web-based healthcare platform for booking doctor appointments • Secure login with role-based access (Patient / Doctor / Admin) • Full medical records management system |
-| 📊 **[Pool Consultant Management System](https://github.com/sudharrshan)** | `Python` `Flask` `React` `MySQL` | Resume upload with automated skill extraction engine • Skill match % calculator with dashboard visualizations • Admin panel with job role mapping & consultant analytics |
+| 🤖 **[J.A.R.V.I.S. — AI Voice Assistant](https://github.com/mrtechdynamo23)** | `Python` `NLP` `SpeechRecognition` `pyttsx3` | Voice-activated AI assistant inspired by Marvel's JARVIS • Real-time task execution & information retrieval • Personalized response system with system integration |
+| 🏥 **[Medico — Medical & Appointment Portal](https://github.com/mrtechdynamo23)** | `React` `Node.js` `Express.js` `MySQL` | Web-based healthcare platform for booking doctor appointments • Secure login with role-based access (Patient / Doctor / Admin) • Full medical records management system |
+| 📊 **[Pool Consultant Management System](https://github.com/mrtechdynamo23)** | `Python` `Flask` `React` `MySQL` | Resume upload with automated skill extraction engine • Skill match % calculator with dashboard visualizations • Admin panel with job role mapping & consultant analytics |
 
 </div>
 
@@ -244,11 +244,11 @@ print(me.motto())
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudharrshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharrshan)
 [![Email](https://img.shields.io/badge/Email-sudharrshancourse23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharrshancourse23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sudharrshan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudharrshan)
+[![GitHub](https://img.shields.io/badge/GitHub-mrtechdynamo23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrtechdynamo23)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sudharrshan&label=Profile+Views&color=70a5fd&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=mrtechdynamo23&label=Profile+Views&color=70a5fd&style=flat-square)
 
 </div>
 
