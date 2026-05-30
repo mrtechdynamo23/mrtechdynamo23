@@ -8,44 +8,37 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td valign="top" width="55%">
-
-### 🌌 &nbsp;Who Am I?
+## 🧑‍💻 About Me
 
 <br/>
 
-```
-╔══════════════════════════════════════╗
-║  > whoami                            ║
-║  Sudharrshan S                       ║
-║                                      ║
-║  > cat profile.txt                   ║
-║  📍 Tamil Nadu, India                ║
-║  🎓 B.E. CSE  |  CGPA: 9.32         ║
-║  💼 Full Stack Developer             ║
-║  🤖 AI & LLM Enthusiast             ║
-║  🔭 Currently: Generative AI         ║
-║                                      ║
-║  > cat fun_fact.txt                  ║
-║  Built JARVIS before Iron Man did 😎 ║
-║                                      ║
-║  > echo $MOTTO                       ║
-║  "Code. Build. Ship. Repeat." 🚀     ║
-╚══════════════════════════════════════╝
-```
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**👋 Hey, I'm Sudharrshan!**
+
+A passionate **Full Stack Developer** and **AI enthusiast** from Tamil Nadu, India.
+I love building things that live on the internet — from intelligent voice assistants to full-blown healthcare platforms.
+
+- 📍 &nbsp;Tamil Nadu, India
+- 🎓 &nbsp;B.E. CSE @ SRM Valliammai &nbsp;|&nbsp; CGPA **9.32**
+- 🔭 &nbsp;Currently building **AI-powered web apps**
+- 🌱 &nbsp;Learning **Generative AI, LLMs & LangChain**
+- 💬 &nbsp;Ask me about **Full Stack, Python, Java**
+- 📫 &nbsp;sudharrshancourse23@gmail.com
+- ⚡ &nbsp;Fun fact: I built **JARVIS** before Iron Man did 😎
 
 </td>
-<td valign="top" width="45%" align="center">
+<td valign="top" width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
-
-<br/><br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=mrtechdynamo23&label=Profile+Views&color=70a5fd&style=flat-square)
+![Location](https://img.shields.io/badge/📍_Location-Tamil%20Nadu%2C%20India-0d1117?style=flat-square&labelColor=0d1117&color=70a5fd)
+![CGPA](https://img.shields.io/badge/🎓_CGPA-9.32%20%2F%2010-0d1117?style=flat-square&labelColor=0d1117&color=bf91f3)
+![Role](https://img.shields.io/badge/💼_Role-Full%20Stack%20Dev-0d1117?style=flat-square&labelColor=0d1117&color=38bdae)
 
 </td>
 </tr>
