@@ -8,41 +8,29 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Sudharrshan:
-    def __init__(self):
-        self.name        = "Sudharrshan S"
-        self.location    = "Tamil Nadu, India 🇮🇳"
-        self.degree      = "B.E. CSE @ SRM Valliammai (CGPA: 9.32)"
-        self.email       = "sudharrshancourse23@gmail.com"
+### 👨‍💻 &nbsp;About Me
 
-        self.stack = [
-            "Python", "Java", "SQL", "C",
-            "React", "Node.js", "Express.js",
-            "Flask", "Django", "Angular", "Vue.js",
-            "Azure", "Bootstrap"
-        ]
+🚀 &nbsp;Full Stack Developer passionate about **AI, Web Apps & Cloud**
 
-        self.currently_learning = [
-            "Generative AI & LLMs",
-            "DevOps & Cloud Architecture",
-            "Advanced Data Analytics",
-            "System Design"
-        ]
+🎓 &nbsp;B.E. Computer Science @ **SRM Valliammai** — CGPA **9.32**
 
-        self.fun_fact = (
-            "I built my own JARVIS before Iron Man made it cool 🤖"
-        )
+🌍 &nbsp;Based in **Tamil Nadu, India**
 
-    def motto(self):
-        return "Code with purpose. Build with passion. 🚀"
+🤖 &nbsp;Builder of JARVIS — *before Iron Man made it mainstream*
 
+🌱 &nbsp;Currently diving deep into **Generative AI & LLMs**
 
-me = Sudharrshan()
-print(me.motto())
-```
+💡 &nbsp;Love turning ideas into real-world impactful products
+
+⚡ &nbsp;Motto: *"Code with purpose. Build with passion. Ship with pride."*
+
+📫 &nbsp;Reach me at **sudharrshancourse23@gmail.com**
+
+<br/>
+
+> *"The best way to predict the future is to build it."*
 
 <br clear="right"/>
 
@@ -90,12 +78,21 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mrtechdynamo23">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrtechdynamo23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Sudharrshan's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/mrtechdynamo23">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtechdynamo23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
+
+![Total Commits](https://img.shields.io/badge/Total%20Commits-847-70a5fd?style=for-the-badge&logo=github&logoColor=white)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-134-bf91f3?style=for-the-badge&logo=git&logoColor=white)
+![Issues Solved](https://img.shields.io/badge/Issues%20Solved-89-38bdae?style=for-the-badge&logo=github&logoColor=white)
+![Stars Earned](https://img.shields.io/badge/Stars%20Earned-212-f0c040?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-38%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-22%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-18%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-12%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7%25-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Other](https://img.shields.io/badge/Other-3%25-8b949e?style=flat-square&logo=github&logoColor=white)
+
 </div>
 
 ---
@@ -119,7 +116,15 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrtechdynamo23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+
+![MultipleLang](https://img.shields.io/badge/🏆%20MultiLanguage-gold?style=for-the-badge&labelColor=0d1117&color=ffd700)
+![Commits](https://img.shields.io/badge/🏆%20Commits%20×800%2B-gold?style=for-the-badge&labelColor=0d1117&color=ffd700)
+![Repositories](https://img.shields.io/badge/🏆%20Repositories%20×30%2B-gold?style=for-the-badge&labelColor=0d1117&color=c0c0c0)
+![Stars](https://img.shields.io/badge/🏆%20Stars%20×200%2B-gold?style=for-the-badge&labelColor=0d1117&color=ffd700)
+![Followers](https://img.shields.io/badge/🏆%20Followers%20×100%2B-silver?style=for-the-badge&labelColor=0d1117&color=c0c0c0)
+![PullRequest](https://img.shields.io/badge/🏆%20Pull%20Requests%20×100%2B-bronze?style=for-the-badge&labelColor=0d1117&color=cd7f32)
+![Issues](https://img.shields.io/badge/🏆%20Issues%20×50%2B-bronze?style=for-the-badge&labelColor=0d1117&color=cd7f32)
+
 </div>
 
 ---
@@ -245,6 +250,7 @@ print(me.motto())
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudharrshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharrshan)
 [![Email](https://img.shields.io/badge/Email-sudharrshancourse23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharrshancourse23@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mrtechdynamo23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrtechdynamo23)
+[![Instagram](https://img.shields.io/badge/Instagram-sudharrshan__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sudharrshan__)
 
 <br/>
 
