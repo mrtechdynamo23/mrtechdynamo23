@@ -102,18 +102,6 @@ I love building things that live on the internet — from intelligent voice assi
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrtechdynamo23/mrtechdynamo23/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrtechdynamo23/mrtechdynamo23/output/github-contribution-grid-snake.svg" />
-    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/mrtechdynamo23/mrtechdynamo23/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details open>
