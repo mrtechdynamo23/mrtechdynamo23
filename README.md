@@ -95,7 +95,7 @@ I love building things that live on the internet — from intelligent voice assi
 ## 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrtechdynamo23&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mrtechdynamo23&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </div>
 
 > *Computed live from your real GitHub activity — no static badges here. Trophies fill in as your commits, repos, and stars grow.*
@@ -163,7 +163,7 @@ I love building things that live on the internet — from intelligent voice assi
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| 🛒 **ShopWise AI** | `Node.js` `Express` `Claude` `Gemini` `SQLite` | Multi-agent GenAI shopping assistant • Explainable, agent-routed recommendations • Tiered LLM cost optimization |
+| 🛒 **[ShopWise AI](https://github.com/mrtechdynamo23/ShopWise-AI-an-AI-powered-shopping-assistant)** | `Node.js` `Express` `Claude` `Gemini` `SQLite` | Multi-agent GenAI shopping assistant • Explainable, agent-routed recommendations • Tiered LLM cost optimization |
 | 🤖 **[JARVIS](https://github.com/mrtechdynamo23/JARVIS)** | `Python` `NLP` `SpeechRecognition` `pyttsx3` | Voice-activated AI assistant inspired by Marvel's JARVIS • Real-time task execution & information retrieval |
 | 🤖 **[Jarvis 2.0](https://github.com/mrtechdynamo23/Jarvis-2.0)** | `Python` `NLP` | Second-generation rebuild of JARVIS with improved response handling |
 | 📊 **[Pool Consultant Management System](https://github.com/mrtechdynamo23/Pool-Consultant-Management-System)** | `HTML` `Python` `Flask` `MySQL` | Resume upload with automated skill extraction engine • Skill match % calculator with dashboard visualizations |
@@ -173,7 +173,7 @@ I love building things that live on the internet — from intelligent voice assi
 
 </div>
 
-> 💡 *ShopWise AI's repo isn't public yet — swap in the real URL once it's pushed. You've got 13 repos total on GitHub — [see the rest here](https://github.com/mrtechdynamo23?tab=repositories).*
+> 💡 *You've got 13 repos total on GitHub — [see the rest here](https://github.com/mrtechdynamo23?tab=repositories).*
 
 ---
 
