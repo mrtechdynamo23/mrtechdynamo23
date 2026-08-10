@@ -52,39 +52,19 @@ Live stats — powered directly by GitHub's API, updates automatically.
 
 <div align="center">
 
-🚀 Developer Showcase
-
-<a href="#">
-  <img src="https://img.shields.io/badge/🏆_AI_Innovation-GenAI_Builder-6C63FF?style=for-the-badge" alt="AI Innovation Trophy" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/🥇_Hackathon-AION_3rd_Place-F5B301?style=for-the-badge" alt="Hackathon Trophy" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/🤖_AI_Builder-Multi--Agent_AI-00A67E?style=for-the-badge" alt="AI Builder Trophy" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/💻_Full_Stack-Java_•_Python-3178C6?style=for-the-badge" alt="Full Stack Trophy" />
-</a>
+<img src="https://img.shields.io/badge/🏆_AI_Innovation-GenAI_Builder-6C63FF?style=for-the-badge" alt="AI Innovation Trophy" />
+<img src="https://img.shields.io/badge/🥇_Hackathon-AION_3rd_Place-F5B301?style=for-the-badge" alt="Hackathon Trophy" />
+<img src="https://img.shields.io/badge/🤖_AI_Builder-Multi--Agent_AI-00A67E?style=for-the-badge" alt="AI Builder Trophy" />
+<img src="https://img.shields.io/badge/💻_Full_Stack-Java_•_Python-3178C6?style=for-the-badge" alt="Full Stack Trophy" />
 
 <br/><br/>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/🔥_Project_Shipper-7%2B_Projects-E55353?style=for-the-badge" alt="Project Shipper Trophy" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/🧠_Problem_Solver-AI_%26_Automation-8E44AD?style=for-the-badge" alt="Problem Solver Trophy" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/☁️_Cloud_Explorer-Azure_%26_DevOps-0078D4?style=for-the-badge" alt="Cloud Explorer Trophy" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/⚡_Builder_Mindset-Build_•_Learn_•_Ship-FF6F00?style=for-the-badge" alt="Builder Mindset Trophy" />
-</a>
+<img src="https://img.shields.io/badge/🔥_Project_Shipper-7%2B_Projects-E55353?style=for-the-badge" alt="Project Shipper Trophy" />
+<img src="https://img.shields.io/badge/🧠_Problem_Solver-AI_%26_Automation-8E44AD?style=for-the-badge" alt="Problem Solver Trophy" />
+<img src="https://img.shields.io/badge/☁️_Cloud_Explorer-Azure_%26_DevOps-0078D4?style=for-the-badge" alt="Cloud Explorer Trophy" />
+<img src="https://img.shields.io/badge/⚡_Builder_Mindset-Build_•_Learn_•_Ship-FF6F00?style=for-the-badge" alt="Builder Mindset Trophy" />
 
 </div>
-
-Showcase badges: These are custom profile trophies for presentation, not official GitHub-issued awards or certifications.
 
 💼 Work Experience
 
