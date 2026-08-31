@@ -228,7 +228,7 @@ I love building things that live on the internet — from intelligent voice assi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudharrshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharrshan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudharrshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharrshan-s)
 [![Email](https://img.shields.io/badge/Email-sudharrshancourse23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharrshancourse23@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mrtechdynamo23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrtechdynamo23)
 [![Instagram](https://img.shields.io/badge/Instagram-sudharrshan__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sudharrshan__)
